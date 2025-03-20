@@ -6,7 +6,7 @@
 
 <img src = "images/spot_controlmesh00.png" width = 23%><img src = "images/spot_quadrangulated01.png" width = 25%><img src = "images/spot_quadrangulated02.png" width = 25%><img src = "images/spot_quadrangulated03.png" width = 27%>
 
-メッシュの細分割曲面として代表的なCatmull-Clark細分割を研究の一環として実装．  
+メッシュの細分割曲面として代表的なCatmull-Clark細分割を実装．  
 * 使用言語：C++
 * 使用ライブラリ：Eigen
 ### 細分割曲面
